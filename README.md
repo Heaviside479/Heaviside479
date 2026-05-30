@@ -1,167 +1,170 @@
 # 👋 Christopher Heaviside
 
-## 🇩🇪 Deutsch
+## 🚀 Founder of Heaviside Solutions
 
-### 🚀 Digitale Lösungen für moderne Unternehmen
+Modern Web Development • AI Automation • Custom Software Solutions • Digital Transformation
+
+🌍 Website: https://heaviside-solutions.com
+
+---
+
+# 🇩🇪 Deutsch
+
+## Digitale Lösungen für moderne Unternehmen
 
 Ich unterstütze Unternehmen, Selbstständige und Gründer bei der Digitalisierung ihrer Geschäftsprozesse.
 
-Mein Schwerpunkt liegt auf modernen Websites, individueller Softwareentwicklung, KI-gestützten Automatisierungen und professioneller IT-Beratung.
+Mein Schwerpunkt liegt auf:
+
+* 🌐 Webentwicklung
+* 🤖 KI-Automatisierung
+* 💻 Individueller Softwareentwicklung
+* 🏢 IT-Beratung
+* 🔧 Hosting & Support
 
 ---
 
 ## 💼 Dienstleistungen
 
 ### 🌐 Webentwicklung
-- Unternehmenswebsites
-- Landing Pages
-- Responsive Design
-- SEO-Grundoptimierung
+
+* Unternehmenswebsites
+* Landing Pages
+* Responsive Design
+* SEO-Optimierung
 
 ### 🤖 KI & Automatisierung
-- KI-Workflows
-- Chatbots
-- Prozessautomatisierung
-- Dokumentenverarbeitung
+
+* KI-Workflows
+* Chatbots
+* Prozessautomatisierung
+* Dokumentenverarbeitung
 
 ### 💻 Softwareentwicklung
-- Individuelle Webanwendungen
-- Kundenportale
-- Dashboards
-- Maßgeschneiderte Softwarelösungen
+
+* Individuelle Webanwendungen
+* Kundenportale
+* Dashboards
+* Maßgeschneiderte Lösungen
 
 ### 🏢 IT-Beratung
-- Digitalisierung
-- Prozessoptimierung
-- Technische Strategien
-- Systemintegration
 
-### 🔧 Hosting, Wartung & Support
-- Hosting-Lösungen
-- Wartung
-- Updates
-- Technischer Support
+* Digitalisierung
+* Prozessoptimierung
+* Technische Strategien
+* Systemintegration
+
+### 🔧 Hosting & Support
+
+* Hosting-Lösungen
+* Wartung
+* Updates
+* Technischer Support
 
 ---
 
 ## 🛠 Technologien
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
 ## 🌍 Website
 
-➡️ https://heaviside479.github.io/Heaviside/
-
-## 🔗 Links
-
-### GitHub
-https://github.com/Heaviside479
-
-### LinkedIn
-https://www.linkedin.com/in/christopher-heaviside-8a2930412/
-
-### E-Mail
-Heaviside.Business@gmail.com
+https://heaviside-solutions.com
 
 ---
+
+## 🔗 Connect
+
+GitHub
+https://github.com/Heaviside479
+
+LinkedIn
+https://www.linkedin.com/in/christopher-heaviside-8a2930412/
+
+E-Mail
+[Heaviside.Business@gmail.com](mailto:Heaviside.Business@gmail.com)
 
 ---
 
 # 🇬🇧 English
 
-### 🚀 Digital Solutions for Modern Businesses
+## Digital Solutions for Modern Businesses
 
-I help companies, entrepreneurs and startups digitize their business processes.
+I help companies, entrepreneurs and startups optimize and digitize their business processes.
 
-My focus is on modern websites, custom software development, AI-powered automation and professional IT consulting.
+My focus areas are:
 
----
-
-## 💼 Services
-
-### 🌐 Web Development
-- Business Websites
-- Landing Pages
-- Responsive Design
-- Basic SEO Optimization
-
-### 🤖 AI & Automation
-- AI Workflows
-- Chatbots
-- Process Automation
-- Document Processing
-
-### 💻 Software Development
-- Custom Web Applications
-- Client Portals
-- Dashboards
-- Tailor-Made Software Solutions
-
-### 🏢 IT Consulting
-- Digital Transformation
-- Process Optimization
-- Technical Strategy
-- System Integration
-
-### 🔧 Hosting, Maintenance & Support
-- Hosting Solutions
-- Maintenance
-- Updates
-- Technical Support
+* 🌐 Web Development
+* 🤖 AI Automation
+* 💻 Custom Software Development
+* 🏢 IT Consulting
+* 🔧 Hosting & Support
 
 ---
 
-## 🛠 Technologies
+## Services
 
-HTML • CSS • JavaScript • Git • GitHub
+### Web Development
+
+* Business Websites
+* Landing Pages
+* Responsive Design
+* SEO Optimization
+
+### AI & Automation
+
+* AI Workflows
+* Chatbots
+* Process Automation
+* Document Processing
+
+### Software Development
+
+* Custom Web Applications
+* Client Portals
+* Dashboards
+* Tailor-Made Software Solutions
+
+### IT Consulting
+
+* Digital Transformation
+* Process Optimization
+* Technical Strategy
+* System Integration
+
+### Hosting & Support
+
+* Hosting Solutions
+* Maintenance
+* Updates
+* Technical Support
 
 ---
 
-## 🌍 Website
+## Current Focus
 
-➡️ https://heaviside479.github.io/Heaviside/
-
-## 🔗 Links
-
-### GitHub
-https://github.com/Heaviside479
-
-### LinkedIn
-https://www.linkedin.com/in/christopher-heaviside-8a2930412/
-
-### E-Mail
-Heaviside.Business@gmail.com
+* Artificial Intelligence
+* Business Automation
+* Web Development
+* Software Engineering
+* Digital Transformation
 
 ---
 
-## 📈 Current Focus
-
-- AI Automation
-- Web Development
-- Software Development
-- Digital Transformation
-- Hosting & Support
-
----
-
-## 🤝 Let's Work Together
+## Let's Work Together
 
 I am always open to exciting projects, collaborations and new opportunities.
 
-📩 Contact:
+🌍 https://heaviside-solutions.com
 
-**Heaviside.Business@gmail.com**
+📩 [Heaviside.Business@gmail.com](mailto:Heaviside.Business@gmail.com)
 
 ---
 
-⭐ Thank you for visiting my GitHub profile.
+⭐ Thanks for visiting my GitHub profile.
