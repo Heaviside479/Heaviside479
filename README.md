@@ -4,14 +4,6 @@
 
 Modern Web Development • AI Automation • Custom Software Solutions • Digital Transformation
 
-🌍 Website: https://heaviside-solutions.com
-
-🌍 Upwork: https://www.upwork.com/freelancers/~01cf0b9f1e2c418838
-
-🌍 Linkedin: https://www.linkedin.com/in/christopher-heaviside-8a2930412/
-
-🌍 Fiverr: https://de.fiverr.com/sellers/heavi_solutions/edit
-
 ---
 
 # 🇩🇪 Deutsch
@@ -92,6 +84,12 @@ https://github.com/Heaviside479
 
 LinkedIn
 https://www.linkedin.com/in/christopher-heaviside-8a2930412/
+
+Fiverr
+https://de.fiverr.com/sellers/heavi_solutions/edit
+
+Upwork 
+https://www.upwork.com/freelancers/~01cf0b9f1e2c418838
 
 E-Mail
 [Heaviside.Business@gmail.com](mailto:Heaviside.Business@gmail.com)
