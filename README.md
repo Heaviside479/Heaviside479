@@ -10,6 +10,8 @@ Modern Web Development • AI Automation • Custom Software Solutions • Digit
 
 🌍 Linkedin: https://www.linkedin.com/in/christopher-heaviside-8a2930412/
 
+🌍 Fiverr: https://de.fiverr.com/sellers/heavi_solutions/edit
+
 ---
 
 # 🇩🇪 Deutsch
