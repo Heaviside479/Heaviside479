@@ -6,6 +6,10 @@ Modern Web Development • AI Automation • Custom Software Solutions • Digit
 
 🌍 Website: https://heaviside-solutions.com
 
+🌍 Upwork: https://www.upwork.com/freelancers/~01cf0b9f1e2c418838
+
+🌍 Linkedin: https://www.linkedin.com/in/christopher-heaviside-8a2930412/
+
 ---
 
 # 🇩🇪 Deutsch
