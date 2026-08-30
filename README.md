@@ -78,8 +78,7 @@ https://heaviside-solutions.com
 
 ## Contact
 
-**Website:** https://heaviside-solutions.com  
-**LinkedIn:** https://www.linkedin.com/in/christopher-heaviside-8a2930412/  
+**Website:** https://heaviside-solutions.com   
 **Email:** [heaviside.business@gmail.com](mailto:heaviside.business@gmail.com)
 
 ---
