@@ -1,174 +1,87 @@
-# 👋 Christopher Heaviside
+# Christopher Heaviside
 
-## 🚀 Founder of Heaviside Solutions
+Founder & software builder at **Heaviside Solutions**.
 
-Modern Web Development • AI Automation • Custom Software Solutions • Digital Transformation
+I build focused software products, developer tools and digital platforms — with an emphasis on clear problems, reproducible engineering and practical user value.
 
----
+Based in Austria.
 
-# 🇩🇪 Deutsch
+## Featured open-source project
 
-## Digitale Lösungen für moderne Unternehmen
+### HandoffProbe
 
-Ich unterstütze Unternehmen, Selbstständige und Gründer bei der Digitalisierung ihrer Geschäftsprozesse.
+**Open-source security testing for cross-protocol AI agent systems.**
 
-Mein Schwerpunkt liegt auf:
+HandoffProbe is a developer-first security testing CLI for detecting failures that emerge when authority, identity, consent and execution context move across agent-protocol boundaries.
 
-* 🌐 Webentwicklung
-* 🤖 KI-Automatisierung
-* 💻 Individueller Softwareentwicklung
-* 🏢 IT-Beratung
-* 🔧 Hosting & Support
+Initial focus: **A2A 1.0 → MCP 2026-07-28**.
 
----
+- 22 stable security attacks
+- deterministic local testing
+- secure and vulnerable reference fixtures
+- terminal, JSON and Markdown reporting
+- GitHub Action integration
+- Apache-2.0 licensed
 
-## 💼 Dienstleistungen
+**GitHub:** https://github.com/Heaviside479/handoffprobe  
+**npm:** https://www.npmjs.com/package/handoffprobe
 
-### 🌐 Webentwicklung
+```bash
+npx --yes handoffprobe@0.1.0 test
+```
 
-* Unternehmenswebsites
-* Landing Pages
-* Responsive Design
-* SEO-Optimierung
+## Products & platforms
 
-### 🤖 KI & Automatisierung
+### Revora
 
-* KI-Workflows
-* Chatbots
-* Prozessautomatisierung
-* Dokumentenverarbeitung
+Inventory and workflow software for resellers — connecting physical stock, storage locations, QR workflows and marketplace operations.
 
-### 💻 Softwareentwicklung
+https://revora.heaviside-solutions.com
 
-* Individuelle Webanwendungen
-* Kundenportale
-* Dashboards
-* Maßgeschneiderte Lösungen
+### BillDrift
 
-### 🏢 IT-Beratung
+3PL invoice reconciliation for e-commerce and DTC teams. BillDrift helps turn CSV/XLSX billing data into auditable findings and evidence-backed discrepancies.
 
-* Digitalisierung
-* Prozessoptimierung
-* Technische Strategien
-* Systemintegration
+https://billdrift.heaviside-solutions.com
 
-### 🔧 Hosting & Support
+### ScopeLedger
 
-* Hosting-Lösungen
-* Wartung
-* Updates
-* Technischer Support
+Project-margin and scope auditing for small agencies, studios and consultancies — designed to make scope leaks and weak margins visible earlier.
 
----
+https://scopeledger.heaviside-solutions.com
 
-## 🛠 Technologien
+### Elanvoro
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+An information platform for structured buying guidance, comparisons and transparent product recommendations.
 
----
+https://elanvoro.heaviside-solutions.com
 
-## 🌍 Website
+## Heaviside Solutions
+
+Heaviside Solutions is the umbrella for my independent software products and digital platforms.
 
 https://heaviside-solutions.com
 
----
+## Current focus
 
-## 🔗 Connect
+- developer-first security tooling
+- AI-agent protocol security
+- TypeScript and Node.js
+- Next.js web applications
+- deterministic testing and CI
+- product-focused software engineering
+- SEO-driven information platforms
 
-GitHub
-https://github.com/Heaviside479
+## Technology
 
-LinkedIn
-https://www.linkedin.com/in/christopher-heaviside-8a2930412/
+`TypeScript` · `Node.js` · `Next.js` · `React` · `Supabase` · `Vercel` · `GitHub Actions` · `Vitest`
 
-Fiverr
-https://de.fiverr.com/sellers/heavi_solutions/edit
+## Contact
 
-Upwork 
-https://www.upwork.com/freelancers/~01cf0b9f1e2c418838
-
-E-Mail
-[Heaviside.Business@gmail.com](mailto:Heaviside.Business@gmail.com)
-
----
-
-# 🇬🇧 English
-
-## Digital Solutions for Modern Businesses
-
-I help companies, entrepreneurs and startups optimize and digitize their business processes.
-
-My focus areas are:
-
-* 🌐 Web Development
-* 🤖 AI Automation
-* 💻 Custom Software Development
-* 🏢 IT Consulting
-* 🔧 Hosting & Support
+**Website:** https://heaviside-solutions.com  
+**LinkedIn:** https://www.linkedin.com/in/christopher-heaviside-8a2930412/  
+**Email:** [heaviside.business@gmail.com](mailto:heaviside.business@gmail.com)
 
 ---
 
-## Services
-
-### Web Development
-
-* Business Websites
-* Landing Pages
-* Responsive Design
-* SEO Optimization
-
-### AI & Automation
-
-* AI Workflows
-* Chatbots
-* Process Automation
-* Document Processing
-
-### Software Development
-
-* Custom Web Applications
-* Client Portals
-* Dashboards
-* Tailor-Made Software Solutions
-
-### IT Consulting
-
-* Digital Transformation
-* Process Optimization
-* Technical Strategy
-* System Integration
-
-### Hosting & Support
-
-* Hosting Solutions
-* Maintenance
-* Updates
-* Technical Support
-
----
-
-## Current Focus
-
-* Artificial Intelligence
-* Business Automation
-* Web Development
-* Software Engineering
-* Digital Transformation
-
----
-
-## Let's Work Together
-
-I am always open to exciting projects, collaborations and new opportunities.
-
-🌍 https://heaviside-solutions.com
-
-📩 [Heaviside.Business@gmail.com](mailto:Heaviside.Business@gmail.com)
-
----
-
-⭐ Thanks for visiting my GitHub profile.
+Building useful software, one focused product at a time.
